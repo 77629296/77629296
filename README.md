@@ -1,2 +1,2 @@
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/77629296/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/77629296/9a6b15a4690b06f5011727d30aadd116/raw/general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="https://cdn.jsdelivr.net/gh/77629296/77629296/assets/images/splatoon.webp">](#)
